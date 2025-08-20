@@ -1,8 +1,8 @@
 <div align="left">
   <h1>Thiago Barbosa da Silva</h1>
-  <img src="" width="180" align="right">
+  <img src="Augustine.png" width="280" align="right">
   <h3>Cientista da Computação em formação pela UFRJ.</h3>
-  <h5>Grande interessado em abstração algorítmica e </h5>
+  <h5>Grande interessado em abstração algorítmica e programação em Java.</h5>
   <br>
 </div>
 
@@ -36,3 +36,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
